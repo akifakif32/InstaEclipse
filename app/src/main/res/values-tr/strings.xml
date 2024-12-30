@@ -99,7 +99,7 @@
     <string name="disable_comments">Yorumları Devre Dışı Bırak</string>
 
     <!-- contributor card -->
-    <string name="contributor_name">Katkıda Bulunanlar</string>
+    <string name="contributor_name">Katkıda Bulunan\'ın İsmi</string>
 
     <!-- Toast -->
     <string name="restart_insta_toast">Instagram Yeniden Başlatılıyor</string>
